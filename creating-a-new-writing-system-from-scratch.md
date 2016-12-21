@@ -107,6 +107,6 @@ Image credit: [Rei-artur](https://commons.wikimedia.org/wiki/File:LocationBurkin
 
 ### **About the Author**
 
-Ellen G. Kress \([@dorksidedarth](http://www.twitter.com/dorksidedarth)\) is a linguist and theatre researcher currently at the University of Oregon. Her research focuses on the cognitive processing of language in performance, and translates her empirical findings into a creative manifestation of the relationship between art and science.**  
+**Ellen G. Kress** \([@dorksidedarth](http://www.twitter.com/dorksidedarth)\) is a linguist and theatre researcher currently at the University of Oregon. Her research focuses on the cognitive processing of language in performance, and translates her empirical findings into a creative manifestation of the relationship between art and science.**  
 **
 

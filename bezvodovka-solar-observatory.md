@@ -106,7 +106,21 @@ Thus, the ancient engineers, architects, and astronomers possessed a system of k
 
 ---
 
+In October 2016, _Solar Observatory Bezvodovka_ was presented at the [27th International Festival of Archaeological Film](http://www.rassegnacinemaarcheologico.it/UploadDocs/13429_libretto_rassegna2016__aggiornato.pdf#page=8). 
+
+{% youtube %} https://www.youtube.com/watch?v=KA3B95WJrhY {% endyoutube %}
+
+---
+
+**Learn More About Bezvodovka**
+
+{% youtube %} https://www.youtube.com/watch?v=1uq-LoyZAwE {% endyoutube %}
+
+---
+
 ### References 
+
+* Learn more from [bezvodovka.com](http://www.bezvodovka.com/)
 
 ---
 

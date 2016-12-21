@@ -1,4 +1,4 @@
-# **Creating a New Writing System, from scratch**
+# Creating a New Writing System, from scratch
 
 Have you ever stopped to contemplate the different keys on a keyboard and what they truly represent? Or ponder the fact that right now you are reading these words \(out loud or in your head\) and they make total sense? The combination of letters and spaces are arbitrary but important! These systems for writing have been devised and designed over thousands of years. Linguists refer to writing systems as _orthography_. Not every language has the same orthography, and in fact, different writing systems capture different aspects of different languages.
 

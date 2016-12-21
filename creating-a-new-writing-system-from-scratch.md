@@ -34,7 +34,6 @@ Image credit: [Grendelkhan, Nohat](https://commons.wikimedia.org/wiki/File:Ipa-c
 
 {% youtube %} https://www.youtube.com/watch?v=c97xwLdSsXU {% endyoutube %}
 
-**How to do pronounce vowels with the IPA?**
 ---
 
 The type of system that English employs is called an alphabet, where each sound is roughly equal to one letter. There are plenty of exceptions, however. For example, in the word “rough” two letters are used to represent one sound: “gh” for /f/. On the other hand, in the word “example” the letter “x” is used to represent two sounds in combination: /ks/. English is notoriously difficult to learn for this exact reason. The letter combination “ough” actually can make 10 different sounds in English: enough, cough, drought, dough, bought, through, borough, hiccough \(commonly spelled “hiccup”\), hough \(commonly spelled “hock”\), and lough \(commonly spelled “loch”\).

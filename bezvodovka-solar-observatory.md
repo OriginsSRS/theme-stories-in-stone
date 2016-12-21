@@ -2,9 +2,39 @@
 
 **Bezvodovka is a solar observatory, an ancient architectural monument. This Bronze Age 20 square kilometer site is also a scientific and spiritual center.**
 
+---
+
+![](/assets/Graves-Group.jpg)
+
+_Bezvodovka aerial view_
+
+Used with permission - [Bezvodovka.com](http://www.bezvodovka.com/)
+
+---
+
 A group of ancient mounds lies in Chernihiv region, nearby the city of Ichnia, at Bezvodovka plateau, Ukraine. While some mounds have been destroyed by people and machinery, others were described by scholars in 2nd millennium BCE. The combination of ancient topographic maps and new research methods revealed the scattered mounds to be a single complex. Occupying an area of 20 square kilometers, aerial photography, and computer applications have made it possible to determine the purpose of the Bezvodovka mound complex.
 
+---
+
+![](/assets/Kurgan-Group.jpg)
+
+_Mounds of Bezvodovka_
+
+Used with permission - [Bezvodovka.com](http://www.bezvodovka.com/)
+
+---
+
 If one stands in the center of the complex, they may see the sun rise and set behind the man-made hills on days special to the people since time immemorial. The most important holidays of each year fall upon these special days: the summer and winter solstice, along with the spring and fall equinoxes. Bezvodovka is an ancient solar observatory akin to the English Stonehenge or German Goseck. Why is it a solar observatory? The reason is that the movement of the points of the sunrise and sunset, along with other celestial bodies, marked on the horizon. Solar observatories marked the regularities of their movement over the celestial sphere. Bezvodovka is an instrument of incredible scale, the components of which are land, sky and cosmic objects. Determining solar and lunar cycles enabled ancient astronomers to calculate the dates of lunar and solar eclipses. The dimensions of Bezvodovka observatory and distances between its principal sights, which range from 800 to 4000 meters, imply high precision measurements of azimuths to the points of emergence of the sun on the horizon.
+
+---
+
+![](/assets/sunset.jpg)
+
+_Sunset at Bezvodovka_
+
+Used with permission - [Bezvodovka.com](http://www.bezvodovka.com/)
+
+---
 
 The solar observatory should be considered not only an interesting archeological monument but also serves as existential evidence of a civilization in Ukrainian territory thousands of years ago. Its representatives created a wide-scale project, organized the people for the purpose of construction, and researched the space by means accessible to them. Bezvodovka has conceived its secrets for a long time, but now it reveals the knowledge of ancient astronomers.
 
@@ -13,6 +43,16 @@ The solar observatory should be considered not only an interesting archeological
 In a circular position, four ancient mounds rest with the diameter of 185 m each, approximately one kilometer north of the extinct village of Bezvodivka, of Chernihiv region’s Ichnia district. The complex is located at the height of 170 m above the sea level on a plateau, beside the watershed of the rivers of Ichenka, Bezvodivka, and one of the mouths of the Smosh river. They are described in scientific papers as mounds of second millennium BCE build by nomadic tribes. Yet, if one reviews them from a wider perspective, they will be forced to doubt in the scholars’ conclusion.
 
 On Schubert’s map (1861), there are 6 mounds depicted in a circular position. Four of them have an elongated shape. Notwithstanding, that map may be not precise enough, but it enables one to imagine how the complex looked 150 years ago. Four large mounds and one satellite mound have survived until present, as some of the mounds were destroyed by ploughing and human indifference.
+
+---
+
+![](/assets/Graves-Group-2.jpg)
+
+_Bezvodovka high aerial view_
+
+Used with permission - [Bezvodovka.com](http://www.bezvodovka.com/)
+
+---
 
 The remaining mounds allow us to presume eight existed and served as the sights for astronomic observations. In a photo of the satellite mound, near those surviving, one can see dark crosses at the place of the ploughed mounds. There was not a sight on the Northern side of the complex, because the traces of its existence are absent on the map and the land surface. The Western sight suggests the existence of the Eastern one, the Southern Western sight suggests the existence of the Southeastern one, and the Northeastern sight suggests the existence of the Northwestern one. Six sights mark the astronomic events of the rise and set of the sun in days of winter and summer solstice, and the autumn and spring equinox. It is unknown what the Southern sight points to. The photo shows the reconstruction of a possible view and location of close sights. They contain a caption of the azimuth and the day of astronomic events which are indicated by them. They may also have been used for observations of the Moon. The observer’s workplace was located in the center of the complex, at the same time, the opposite sights might have been observer’s workplaces.
 
@@ -62,13 +102,13 @@ Also, the distance  between the center and one of the Northern DS (1830 m) corre
 
 ---
 
-![](/img/Skhema_1920kh108014.jpg)
+![](/assets/Skhema_1920kh108014.jpg)
 
-![](/img/Skhema_1920kh108045.jpg)
+![](/assets/Skhema_1920kh108045.jpg)
 
 _Distance ratios at Bezvodovka_
 
-Used with permission - [Bevodovka.com](/www.bevodovka.com)
+Used with permission - [Bezvodovka.com](http://www.bezvodovka.com/)
 
 ---
 
@@ -76,15 +116,25 @@ The movement of the sun, moon, stars, and constellations (in conjunction with th
 
 Within nature, one may also find a "golden angle" which is equal to 137.50 and manifests as a spiral (i.e ideal placement of seeds and leaves, so that each following row does not develop in the same direction as that of the previous one and they do not interfere with each other). An interesting, and probably non-random, coincidence is that the angle between the azimuth of the rise of the sun on June 22, the day of summer solstice (49º) and the azimuth of its set on September 22, the day of autumn equinox (271.5º) is also a “golden angle” with the value of 137.5º. The distant sights of the summer solstice and the spring and autumn equinox mark this angle. The relation between the greater and the lower angles within the limits of the circle constitutes 222.5º/137.5º = 1.618, or, simply put: the “golden number.”
 
+---
+
+![](/assets/Skhema_1920kh1080goldangle.jpg)
+
+_Golden Angle at Bezvodovka_
+
+Used with permission - [Bezvodovka.com](http://www.bezvodovka.com/)
+
+---
+
 If one lays Fibonacci’s "golden spiral" over the schematics of the observatory in a way so that its beginning starts at the center, the spiral will proceed through a few close sights and then through some distant sights. Now it is clear why the distance between the center the Western distant sight is specifically 830 m rather than 700 or 1000 m. The Fibonacci spiral also explains the distance of 2960 m to some distant sights. Consequently, the entire structure of the Bezvodovka horizon observatory is transfused with the “golden number.” It was created long before Leonardo da Vinci, Leonardo Pisano (known as Fibonacci), and even long before Euclidis, the “father of geometry.”
 
 ---
 
-![](/img/Skhema_1920kh1080goldspiral.jpg)
+![](/assets/Skhema_1920kh1080goldspiral.jpg)
 
 _Golden Spiral over Bezvodovka_
 
-Used with permission - [Bevodovka.com](/www.bevodovka.com)
+Used with permission - [Bezvodovka.com](http://www.bezvodovka.com/)
 
 ---
 
@@ -94,7 +144,7 @@ Each close and distant sight of the Bezvodovka solar observatory occupies its pl
 
 ---
 
-In October 2016, _Solar Observatory Bezvodovka_ was presented at the [27th International Festival of Archaeological Film](http://www.rassegnacinemaarcheologico.it/UploadDocs/13429_libretto_rassegna2016__aggiornato.pdf#page=8). 
+**In October 2016, _Solar Observatory Bezvodovka_ was presented at the [27th International Festival of Archaeological Film](http://www.rassegnacinemaarcheologico.it/UploadDocs/13429_libretto_rassegna2016__aggiornato.pdf#page=8). **
 
 {% youtube %} https://www.youtube.com/watch?v=KA3B95WJrhY {% endyoutube %}
 

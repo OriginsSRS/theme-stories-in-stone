@@ -66,6 +66,16 @@ Within nature, one may also find a "golden angle" which is equal to 137.50 and m
 
 If one lays Fibonacci’s "golden spiral" over the schematics of the observatory in a way so that its beginning starts at the center, the spiral will proceed through a few close sights and then through some distant sights. Now it is clear why the distance between the center the Western distant sight is specifically 830 m rather than 700 or 1000 m. The Fibonacci spiral also explains the distance of 2960 m to some distant sights. Consequently, the entire structure of the Bezvodovka horizon observatory is transfused with the “golden number.” It was created long before Leonardo da Vinci, Leonardo Pisano (known as Fibonacci), and even long before Euclidis, the “father of geometry.”
 
+---
+
+![](/img/Skhema_1920kh1080goldspiral.jpg)
+
+_Golden Spiral over Bezvodovka_
+
+Used with permission - [Bevodovka.com](/www.bevodovka.com)
+
+---
+
 You may check all distances and figures. Now this raises the most interesting question: "Who required such knowledge and for which purpose?"
 
 Each close and distant sight of the Bezvodovka solar observatory occupies its place for a precise reason according to the project planning. This project was not designed by simple construction, which is evidenced by its extraordinary complexity since Bezvodovka encompasses a great number of variables coordinated in a harmonious way. These values are distances between the sights and the geometric figures that they form, which are arranged in a mathematical way by proportions, number F 1.61 and number π 3.14.

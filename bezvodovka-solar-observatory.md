@@ -6,7 +6,7 @@
 
 ![](/assets/Graves-Group.jpg)
 
-_Bezvodovka aerial view_
+_Bezvodovka: Solar Observatory_
 
 Used with permission - [Bezvodovka.com](http://www.bezvodovka.com/)
 

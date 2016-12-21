@@ -74,11 +74,12 @@ Image credit: [Rei-artur](https://commons.wikimedia.org/wiki/File:LocationBurkin
 
 ---
 
+**How to create a writing system**
+
 {% youtube %} https://www.youtube.com/watch?v=ab9tGLyJBRw {% endyoutube %}
 
 ---
 
-**How to create a writing system**
 
 ### **Q: That sounds great and very scientific. But, how do you go from inventory to writing?**
 

@@ -70,6 +70,14 @@ You may check all distances and figures. Now this raises the most interesting qu
 
 Each close and distant sight of the Bezvodovka solar observatory occupies its place for a precise reason according to the project planning. This project was not designed by simple construction, which is evidenced by its extraordinary complexity since Bezvodovka encompasses a great number of variables coordinated in a harmonious way. These values are distances between the sights and the geometric figures that they form, which are arranged in a mathematical way by proportions, number F 1.61 and number π 3.14.
 
+---
+
+In October 2016, _Solar Observatory Bezvodovka_ was presented at the [27th International Festival of Archaeological Film](http://www.rassegnacinemaarcheologico.it/UploadDocs/13429_libretto_rassegna2016__aggiornato.pdf#page=8). 
+
+{% youtube %} https://www.youtube.com/watch?v=KA3B95WJrhY {% endyoutube %}
+
+---
+
 ## Divine Geometry II
 
 The close sights are called the "Robleni Mohyly" (“Made Graves”), and form a circle with the diameter of 185 m. Furthermore, one may draw a circle with the radius of 2960 m through four distant sights. To make a circle of such scale, one should know the geometry of the circle and its basic component that is number 3.14. 
@@ -103,12 +111,6 @@ This is a golden proportion underlying the architecture of the Pyramid of Cheops
 | Arkaim | 52º38" North |
 
 Thus, the ancient engineers, architects, and astronomers possessed a system of knowledge in the domain of mathematics, geodesy, astronomy, and philosophy. This enabled them to create a measuring device of enormous dimensions: the Bezvodovka solar observatory. The level of knowledge available to the ancient civilization, along with the information they obtained at horizon observatories, challenge us to revise our history.
-
----
-
-In October 2016, _Solar Observatory Bezvodovka_ was presented at the [27th International Festival of Archaeological Film](http://www.rassegnacinemaarcheologico.it/UploadDocs/13429_libretto_rassegna2016__aggiornato.pdf#page=8). 
-
-{% youtube %} https://www.youtube.com/watch?v=KA3B95WJrhY {% endyoutube %}
 
 ---
 

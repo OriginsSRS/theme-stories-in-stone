@@ -1,5 +1,19 @@
 {
     "plugins": [
-        "youtube"
-    ]
+        "youtube",
+        "superscript",
+        "toggle-chapters",
+        "scramble-mailto",
+        "splitter",
+        "anchors",
+        "creativecommons",
+        "edit-link",
+        "expandable-chapters"
+    ],
+    "pluginsConfig": {
+        "edit-link": {
+            "base": "https://github.com/OriginsSRS/theme-stories-in-stone/tree/master",
+            "label": "Edit This Page"
+        }
+    }
 }

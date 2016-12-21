@@ -1,6 +1,6 @@
 # Theme: Stories in Stone
 
-Why do we game? What do we consider games? What's up with all these batteries and software updates all the time to even get to the game?! We're diving into the material and digital culture of gaming, across time and around the world. It's GAME ON!
+How do we learn and interpret the past which is recorded in stone? What stone remains exist today for us to study? What's the fascination with building stone monuments that mark celestial phenomena? What other evidence of the past do we have that isn't made of stone, and what do they mean? How have these Stories persisted through history and evolved?
 
 ---
 

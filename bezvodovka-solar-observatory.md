@@ -60,6 +60,18 @@ Also, the distance  between the center and one of the Northern DS (1830 m) corre
 
 * 2960/1830 = 1.618
 
+---
+
+![](/img/Skhema_1920kh108014.jpg)
+
+![](/img/Skhema_1920kh108045.jpg)
+
+_Distance ratios at Bezvodovka_
+
+Used with permission - [Bevodovka.com](/www.bevodovka.com)
+
+---
+
 The movement of the sun, moon, stars, and constellations (in conjunction with the divine "golden proportion") is taken into account within the design. The proportion is divine, because nature is based on it: seeds in a sunflower’s heart, leaves on the plant’s trunk, mollusk’s shell, DNA spiral curve, human body, spirals of the cyclones in the atmosphere of the Earth, and distant galaxies are arranged as the “golden proportion” or “golden” number.” 
 
 Within nature, one may also find a "golden angle" which is equal to 137.50 and manifests as a spiral (i.e ideal placement of seeds and leaves, so that each following row does not develop in the same direction as that of the previous one and they do not interfere with each other). An interesting, and probably non-random, coincidence is that the angle between the azimuth of the rise of the sun on June 22, the day of summer solstice (49º) and the azimuth of its set on September 22, the day of autumn equinox (271.5º) is also a “golden angle” with the value of 137.5º. The distant sights of the summer solstice and the spring and autumn equinox mark this angle. The relation between the greater and the lower angles within the limits of the circle constitutes 222.5º/137.5º = 1.618, or, simply put: the “golden number.”

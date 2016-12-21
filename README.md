@@ -4,7 +4,11 @@ How do we learn and interpret the past which is recorded in stone? What stone re
 
 ---
 
+## Articles
 
+Ellen G. Kress: [Creating a New Writing System, from Scratch](https://originssrs.gitbooks.io/stories-in-stone/content/creating-a-new-writing-system-from-scratch.html "Creating a New Writing System, from Scratch")
+
+Oleksandr Klykavka: [Bezvodovka: Solar Observatory](https://originssrs.gitbooks.io/stories-in-stone/content/bezvodovka-solar-observatory.html "Bezvodovka: Solar Observatory")
 
 ---
 
